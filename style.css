@@ -19,7 +19,7 @@ header {
 
 main {
     width: 50%;
-    padding: 1rem;
+    padding: 1.5rem;
     margin: auto;
     /* background-color: red; */
 }
@@ -48,12 +48,12 @@ footer {
     text-align: center;
     background-color: #3B3A30;
     color: white;
-    padding: 1.32rem;
+    padding: 0.9rem;
     margin-top: 1rem;
 }
 
 footer a {
-    color: #f7786b;
+    color: #82b74b;
 }
 
 @media (max-width: 900px) {
