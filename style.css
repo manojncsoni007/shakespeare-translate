@@ -70,13 +70,13 @@ footer span {
         padding: 2rem 0;
     }
     header h1 {
-        font-size: 2.5rem;
+        font-size: 2rem;
     }
     textarea {
         height: 9.5rem;
     }
     footer {
-        margin-top: 2.5rem;
+        margin-top: 2rem;
         margin-bottom: 0;
     }
 }
