@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200;400&family=Lobster&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+body {
+    margin: 0;
+    background-color: #eaece5;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: #3b3a30;
+    color: white;
+}
+
+main {
+    width: 50%;
+    padding: 1rem;
+    margin: auto;
+    /* background-color: red; */
+}
+
+textarea {
+    display: block;
+    margin: 1rem auto;
+    width: 100%;
+    height: 7rem;
+    border: 1px solid black;
+}
+
+button {
+    padding: 0.8rem 2rem;
+    border-radius: 1rem;
+    margin: 0.5rem 0 1rem 0;
+    background-color: black;
+    color: white;
+}
+
+main h4 {
+    margin-top: 0.5rem;
+}
+
+footer {
+    text-align: center;
+    background-color: #3B3A30;
+    color: white;
+    padding: 1.32rem;
+    margin-top: 1rem;
+}
+
+footer a {
+    color: #f7786b;
+}
+
+@media (max-width: 900px) {
+    main {
+        width: 90%;
+    }
+}
