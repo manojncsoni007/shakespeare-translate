@@ -60,4 +60,10 @@ footer a {
     main {
         width: 90%;
     }
+    header {
+        padding: 1.5rem 0;
+    }
+    header h1 {
+        font-size: 1.5rem;
+    }
 }
