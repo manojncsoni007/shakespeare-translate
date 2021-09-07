@@ -8,27 +8,29 @@ body {
     margin: 0;
     background-color: #eaece5;
     font-family: 'Josefin Sans', sans-serif;
+    background-image: ;
 }
 
 header {
     text-align: center;
     padding: 1.5rem;
-    background-color: #3b3a30;
-    color: white;
+    color: black;
+    font-size: 2rem;
+    /* background-color: brown; */
 }
 
 main {
-    width: 50%;
-    padding: 1.8rem;
+    width: 40%;
+    padding: 0 1rem;
     margin: auto;
     /* background-color: red; */
 }
 
 textarea {
     display: block;
-    margin: 1rem auto;
+    margin: auto;
     width: 100%;
-    height: 7rem;
+    height: 10rem;
     border: 1px solid black;
     padding: 1rem;
 }
@@ -36,25 +38,25 @@ textarea {
 button {
     padding: 0.8rem 2rem;
     border-radius: 1rem;
-    margin: 0.5rem 0 1rem 0;
+    margin: 1.5rem 0;
     background-color: black;
     color: white;
 }
 
 main h4 {
-    margin-top: 0.5rem;
+    margin: 0.5rem;
 }
 
 footer {
     text-align: center;
-    background-color: #3B3A30;
-    color: white;
+    /* background-color: #3B3A30; */
+    color: black;
     padding: 0.9rem;
     margin-top: 1rem;
 }
 
 footer a {
-    color: #82b74b;
+    color: red;
 }
 
 footer span {
@@ -69,13 +71,13 @@ footer span {
         padding: 2rem 0;
     }
     header h1 {
-        font-size: 1.8rem;
+        font-size: 2.5rem;
     }
     textarea {
         height: 9.5rem;
     }
     footer {
-        margin-top: 0.5rem;
+        margin-top: 2.5rem;
         margin-bottom: 0;
     }
 }
