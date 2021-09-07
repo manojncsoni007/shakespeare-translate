@@ -57,6 +57,10 @@ footer a {
     color: #82b74b;
 }
 
+footer span {
+    color: red;
+}
+
 @media (max-width: 900px) {
     main {
         width: 90%;
