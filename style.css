@@ -69,4 +69,7 @@ footer a {
     textarea {
         height: 9.5rem;
     }
+    footer {
+        margin-bottom: 0;
+    }
 }
