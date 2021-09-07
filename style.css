@@ -70,6 +70,7 @@ footer a {
         height: 9.5rem;
     }
     footer {
+        margin-top: 0.5rem;
         margin-bottom: 0;
     }
 }
